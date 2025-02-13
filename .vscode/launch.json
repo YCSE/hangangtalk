@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "HangangTalk",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "--dart-define=SUPABASE_URL=https://zvnqxjfavtfqwtpwgsii.supabase.co",
+                "--dart-define=SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inp2bnF4amZhdnRmcXd0cHdnc2lpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mzk0MzQ3NzcsImV4cCI6MjA1NTAxMDc3N30.7bi6IG7GDC4ZDiKqrhF-2qKyX-WzIT8UMbMcGp1cr-E"
+            ]
+        }
+    ]
+} 
